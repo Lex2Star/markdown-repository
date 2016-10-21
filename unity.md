@@ -44,6 +44,14 @@ Learn how to make an isometric 3D survival shooter game.
 ----
 2D shooting game
 
-![Alt text](https://astoration.gitbooks.io/sihs-shootinggame/content/오3.PNG)
+![Alt text](https://astoration.gitbooks.io/sihs-shootinggame/content/오우3.PNG)
 
 >출처 : [astroation gitbooks](https://astoration.gitbooks.io/sihs-shootinggame/content/)
+
+
+## 2D 디펜
+----NGUI를 활용한 두더지 게임 제작 유니티 2D 기능과 NGUI를 활용한 디펜스 게임 제작 안드로이드 네이티브 연계와 PHP를 활용한 네트워크 작업
+
+![Alt text](http://developerfarm.cdn1.cafe24.com/cover/l/9788998139704.jpg)
+
+>출처 : [totuworld gitbooks](https://totuworld.gitbooks.io/unity_ngui/content/)
