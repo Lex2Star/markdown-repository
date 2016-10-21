@@ -50,7 +50,8 @@ Learn how to make an isometric 3D survival shooter game.
 
 
 ## 2D 디펜
-----NGUI를 활용한 두더지 게임 제작 유니티 2D 기능과 NGUI를 활용한 디펜스 게임 제작 안드로이드 네이티브 연계와 PHP를 활용한 네트워크 작업
+----
+NGUI를 활용한 두더지 게임 제작 유니티 2D 기능과 NGUI를 활용한 디펜스 게임 제작 안드로이드 네이티브 연계와 PHP를 활용한 네트워크 작업
 
 ![Alt text](http://developerfarm.cdn1.cafe24.com/cover/l/9788998139704.jpg)
 
