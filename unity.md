@@ -44,6 +44,6 @@ Learn how to make an isometric 3D survival shooter game.
 ----
 2D shooting game
 
-![Alt text](https://astoration.gitbooks.io/sihs-shootinggame/content/%EC%98%A4%EC%9A%B0%EC%95%BC3.PNG)
+![Alt text](https://astoration.gitbooks.io/sihs-shootinggame/content/오3.PNG)
 
 >출처 : [astroation gitbooks](https://astoration.gitbooks.io/sihs-shootinggame/content/)
