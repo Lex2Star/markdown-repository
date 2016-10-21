@@ -40,7 +40,7 @@ Learn how to make an isometric 3D survival shooter game.
 >출처 : [inflearn](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-3d-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EA%B8%B0/?error=login)
 
 
-## 2D 슈팅게
+## 2D 슈팅게임
 ----
 2D shooting game
 
@@ -49,7 +49,7 @@ Learn how to make an isometric 3D survival shooter game.
 >출처 : [astroation gitbooks](https://astoration.gitbooks.io/sihs-shootinggame/content/)
 
 
-## 2D 디펜
+## 2D 디펜스
 ----
 NGUI를 활용한 두더지 게임 제작 유니티 2D 기능과 NGUI를 활용한 디펜스 게임 제작 안드로이드 네이티브 연계와 PHP를 활용한 네트워크 작업
 
